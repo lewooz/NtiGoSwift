@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.4)
+  - SkyFloatingLabelTextField (3.8.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+
+PODFILE CHECKSUM: 5fc149e577b0472a9fd9154dcfdaddeed6f0c3cb
+
+COCOAPODS: 1.8.4
